@@ -27,17 +27,17 @@ layout: default
 
 ### Research Overview
 
-I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and evolution of massive quenched galaxies at high redshift ($$z ≥ 2$$) using cosmological hydrodynamical simulations. My work connects numerical predictions from hydrodynamical suites like **COLIBRE** and semi-analytic models like **SHARK** with observational insights from the **James Webb Space Telescope (JWST)** and other major observing facilities, focusing on AGN feedback mechanisms and environmental effects. I also have expertise in running simulations and tools that find and connect dark matter halo merger trees within them.
+I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and evolution of massive quenched galaxies at high redshift (z≥2) using cosmological hydrodynamical simulations. My work connects numerical predictions from hydrodynamical suites like **COLIBRE** and semi-analytic models like **SHARK** with observational insights from the **James Webb Space Telescope (JWST)** and other major observing facilities, focusing on AGN feedback mechanisms and environmental effects. I also have expertise in running simulations and tools that find and connect dark matter halo merger trees within them.
 
 ---
 
 ### Selected Publications
 
-**Unveiling the population of massive quenched galaxies at $$z \ge 2$$ in the COLIBRE simulations — II. The role of AGN feedback and environment on their emergence** 
+**Unveiling the population of massive quenched galaxies at z≥2 in the COLIBRE simulations — II. The role of AGN feedback and environment on their emergence** 
 *A. Chandro-Gómez et al.* (2026b), *MNRAS*, 552, stag1632
 [ADS Link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22)
 
-**Unveiling the population of massive quenched galaxies at $$z \ge 2$$ in the COLIBRE simulations — I. Galaxy demographics**
+**Unveiling the population of massive quenched galaxies at z≥2 in the COLIBRE simulations — I. Galaxy demographics**
 *A. Chandro-Gómez et al.* (2026a), *MNRAS*, 552, stag1481 
 [ADS Link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22)
 
