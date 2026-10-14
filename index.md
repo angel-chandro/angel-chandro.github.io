@@ -26,28 +26,28 @@ layout: default
 
 ### Research Overview
 
-I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and evolution of massive quenched galaxies at high redshift ($z \ge 2$) using cosmological hydrodynamical simulations. My work connects numerical predictions from hydrodynamical suites like **COLIBRE** and semi-analytic models like **SHARK** with observational insights from the **James Webb Space Telescope (JWST)** and other major observing facilities, focusing on AGN feedback mechanisms and environmental effects. I also have expertise in running simulations and tools that find and connect dark matter halo merger trees within them.
+I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and evolution of massive quenched galaxies at high redshift ($z ≥ 2$) using cosmological hydrodynamical simulations. My work connects numerical predictions from hydrodynamical suites like **COLIBRE** and semi-analytic models like **SHARK** with observational insights from the **James Webb Space Telescope (JWST)** and other major observing facilities, focusing on AGN feedback mechanisms and environmental effects. I also have expertise in running simulations and tools that find and connect dark matter halo merger trees within them.
 
 ---
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-  <div style="flex: 1 1 300px;">
+  <div style="flex: 1 1 300px;" markdown="1">
 
 ### Selected Publications
 
-**Unveiling the population of massive quenched galaxies at $z \ge 2$ in the COLIBRE simulations — II. The role of AGN feedback and environment on their emergence**  
-*A. Chandro-Gómez et al.* (2026b), *MNRAS*, 552, stag1632  
-[ADS Link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22)
+**Unveiling the population of massive quenched galaxies at $z \ge 2$ in the COLIBRE simulations — II. The role of AGN feedback and environment on their emergence**[cite: 2]  
+*A. Chandro-Gómez et al.* (2026b), *MNRAS*, 552, stag1632[cite: 2]  
+[ADS Link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22)[cite: 2]
 
-**Unveiling the population of massive quenched galaxies at $z \ge 2$ in the COLIBRE simulations — I. Galaxy demographics**  
-*A. Chandro-Gómez et al.* (2026a), *MNRAS*, 552, stag1481  
-[ADS Link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22)
+**Unveiling the population of massive quenched galaxies at $z \ge 2$ in the COLIBRE simulations — I. Galaxy demographics**[cite: 2]  
+*A. Chandro-Gómez et al.* (2026a), *MNRAS*, 552, stag1481[cite: 2]  
+[ADS Link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22)[cite: 2]
 
-**On the accuracy of halo merger trees and the consequences on semi-analytic models of galaxy formation and evolution**  
-*A. Chandro-Gómez et al.* (2025), *MNRAS*, 539, 776  
-[ADS Link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22)
+**On the accuracy of halo merger trees and the consequences on semi-analytic models of galaxy formation and evolution**[cite: 2]  
+*A. Chandro-Gómez et al.* (2025), *MNRAS*, 539, 776[cite: 2]  
+[ADS Link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22)[cite: 2]
 
-*For a full publication list including co-authored papers, please see my [NASA ADS Bibliography](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22).*
+*For a full publication list including co-authored papers, please see my [NASA ADS Bibliography](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22).*[cite: 2]
 
   </div>
   <div style="flex: 0 0 250px; max-width: 250px; text-align: center;">
@@ -59,13 +59,13 @@ I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and ev
 ---
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-  <div style="flex: 1 1 300px;">
+  <div style="flex: 1 1 300px;" markdown="1">
 
 ### Technical Expertise
 
-- **Running simulation codes:** DHalo, D-Trees, HBT-HERONS, Shark, Galform, SWIFT, GADGET-4
-- **Analysis of simulation data:** FLAMINGO, COLIBRE, Shark, Galform
-- **Programming languages & tools:** Python, C, C++, Fortran, Slurm HPC, Git, TensorFlow, Visualization tools
+- **Running simulation codes:** DHalo, D-Trees, HBT-HERONS, Shark, Galform, SWIFT, GADGET-4[cite: 5]
+- **Analysis of simulation data:** FLAMINGO, COLIBRE, Shark, Galform[cite: 5]
+- **Programming languages & tools:** Python, C, C++, Fortran, Slurm HPC, Git, TensorFlow, Visualization tools[cite: 5]
 
   </div>
   <div style="flex: 0 0 250px; max-width: 250px; text-align: center;">
