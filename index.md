@@ -79,7 +79,7 @@ I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and ev
 
 <div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
   <img src="./conference.jpg" alt="Astrophysics Research" style="width: 100%; max-width: 600px; height: auto; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); display: block; margin: 0 auto;">
-  <p style="font-size: 0.85em; color: #666; margin-top: 8px; text-align: center;"><em>Presenting theoretical astrophysics insights at international conferences across Europe and Australia.</em></p>
+  <p style="font-size: 0.85em; color: #666; margin-top: 8px; text-align: center; margin-left: auto; margin-right: auto; width: 100%;"><em>Presenting theoretical astrophysics insights at international conferences across Europe and Australia.</em></p>
 </div>
 
 <br>
@@ -104,9 +104,9 @@ I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and ev
 
 </div>
 
-<br>
-
 <div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
   <img src="./galaxymap.png" alt="Observational Astronomy" style="width: 100%; max-width: 600px; height: auto; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); display: block; margin: 0 auto;">
-  <p style="font-size: 0.85em; color: #666; margin-top: 8px; text-align: center;"><em>Analysing early-Universe massive quenched galaxies using cosmological simulations.</em></p>
+  <p style="font-size: 0.85em; color: #666; margin-top: 8px; text-align: center; margin-left: auto; margin-right: auto; width: 100%;"><em>Analysing early-Universe massive quenched galaxies using cosmological simulations.</em></p>
 </div>
+
+<br>
