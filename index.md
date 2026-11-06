@@ -21,7 +21,7 @@ layout: default
     <h1 style="margin-bottom: 5px; border-bottom: none;">Ángel Chandro-Gómez</h1>
     <p style="font-size: 1.1em; color: #555; margin-top: 0; margin-bottom: 15px;">
       <strong>PhD Researcher in Astrophysics</strong><br>
-      <em>International Centre for Radio Astronomy Research (ICRAR) | 
+      <em>International Centre for Radio Astronomy Research (ICRAR) | </em>
       <em>The University of Western Australia (UWA)</em>
     </p>
     <p>
