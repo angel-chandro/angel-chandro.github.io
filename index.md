@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<meta name="google-site-verification" content="qm3FGI23LajNv8tUQlLVxgVAetwmifuUavo0o0O-7-o" />
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true
+    }
+  });
+</script>
+
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin-bottom: 25px;">
   <div style="flex: 1 1 300px;">
     <h1 style="margin-bottom: 5px; border-bottom: none;">Ángel Chandro-Gómez</h1>
