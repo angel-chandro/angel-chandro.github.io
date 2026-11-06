@@ -57,7 +57,7 @@ I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and ev
 
 <strong>Unveiling the population of massive quenched galaxies at z≥2 in the COLIBRE simulations — II. The role of AGN feedback and environment on their emergence</strong><br>
 <em>Á. Chandro-Gómez et al.</em> (2026b), <em>MNRAS</em>, 552, stag1632 
-[<a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.539..776C/abstract" target="_blank">ADS Link</a>]
+[<a href="https://ui.adsabs.harvard.edu/abs/2026MNRAS.552g1632C/abstract" target="_blank">ADS Link</a>]
 
 <br><br>
 
@@ -69,7 +69,7 @@ I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and ev
 
 <strong>On the accuracy of halo merger trees and the consequences on semi-analytic models of galaxy formation and evolution</strong><br>
 <em>Á. Chandro-Gómez et al.</em> (2025), <em>MNRAS</em>, 539, 776 
-[<a href="https://ui.adsabs.harvard.edu/abs/2026MNRAS.552g1632C/abstract" target="_blank">ADS Link</a>]
+[<a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.539..776C/abstract" target="_blank">ADS Link</a>]
 
 <br><br>
 
