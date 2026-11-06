@@ -23,6 +23,7 @@ layout: default
 
 ---
 
+<br>
 
 ### Research Overview
 
@@ -31,6 +32,8 @@ I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and ev
 </div>
 
 ---
+
+<br>
 
 ### Selected Publications
 
@@ -65,18 +68,25 @@ I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and ev
 
 ---
 
+<br>
+
 ### Technical Expertise
 
 <div style="text-align: justify; text-justify: inter-word; -webkit-hyphens: auto; -ms-hyphens: auto; hyphens: auto;">
 
 - <strong>Running simulation codes:</strong> DHalo, D-Trees, HBT-HERONS, Shark, Galform, SWIFT, GADGET-4
 
+<br>
+
 - <strong>Analysis of simulation data:</strong> FLAMINGO, COLIBRE, Shark, Galform
+
+<br>
 
 - <strong>Programming languages & tools:</strong> Python, C, C++, Fortran, Slurm HPC, Git, TensorFlow, visualisation tools (Matplotlib, Swiftsimio, Swiftgalaxy)
 
 </div>
 
+<br>
 
 <div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
   <img src="./galaxymap.png" alt="Observational Astronomy" style="width: 100%; max-width: 600px; height: auto; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); display: block; margin: 0 auto;">
