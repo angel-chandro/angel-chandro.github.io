@@ -31,6 +31,8 @@ layout: default
 I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and evolution of massive quenched galaxies at high redshift (z≥2) using theoretical galaxy formation models. My work connects numerical predictions of this early galaxy population from hydrodynamical suites like <strong>COLIBRE</strong> and semi-analytic models like <strong>SHARK</strong> with observational insights from the <strong>James Webb Space Telescope (JWST)</strong> and other major observing facilities, focusing on population demographics, quenching mechanisms such as AGN feedback and the role of environment. I have expertise in running cosmological simulations, numerical tools that find and track dark matter halos within them, and semi-analytic models.
 </div>
 
+<br>
+
 ---
 
 <br>
@@ -65,6 +67,8 @@ I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and ev
   <img src="./conference.jpg" alt="Astrophysics Research" style="width: 100%; max-width: 600px; height: auto; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); display: block; margin: 0 auto;">
   <p style="font-size: 0.85em; color: #666; margin-top: 8px; text-align: justify; text-justify: inter-word;"><em>Presenting theoretical astrophysics insights at international conferences across Europe and Australia.</em></p>
 </div>
+
+<br>
 
 ---
 
