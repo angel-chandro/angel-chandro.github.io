@@ -11,7 +11,6 @@ layout: default
     </p>
     <p>
       <a href="./AngelChandroGomez_CVacademic_github.pdf">Curriculum Vitae (PDF)</a> &nbsp;|&nbsp; 
-      <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22">NASA ADS Profile</a> &nbsp;|&nbsp; 
       <a href="https://orcid.org/0009-0004-1163-0160" target="_blank">ORCID</a> &nbsp;|&nbsp; 
       <a href="mailto:angel.chandrogomez@research.uwa.edu.au">Email</a> &nbsp;|&nbsp; 
       <a href="https://github.com/angel-chandro" target="_blank">GitHub</a>
@@ -27,7 +26,7 @@ layout: default
 
 ### Research Overview
 
-I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and evolution of massive quenched galaxies at high redshift (z≥2) using cosmological hydrodynamical simulations. My work connects numerical predictions from hydrodynamical suites like **COLIBRE** and semi-analytic models like **SHARK** with observational insights from the **James Webb Space Telescope (JWST)** and other major observing facilities, focusing on AGN feedback mechanisms and environmental effects. I also have expertise in running simulations and tools that find and connect dark matter halo merger trees within them.
+I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and evolution of massive quenched galaxies at high redshift (z≥2) using theoretical galaxy formation models. My work connects numerical predictions of this early galaxy population from hydrodynamical suites like **COLIBRE** and semi-analytic models like **SHARK** with observational insights from the **James Webb Space Telescope (JWST)** and other major observing facilities, focusing on population demographics, quenching mechanisms such as AGN feedback and the role of environment. I have expertise in running cosmological simulations, numerical tools that find and track dark matter halos within them, and semi-analytic models.
 
 ---
 
@@ -35,15 +34,15 @@ I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and ev
 
 **Unveiling the population of massive quenched galaxies at z≥2 in the COLIBRE simulations — II. The role of AGN feedback and environment on their emergence** 
 *A. Chandro-Gómez et al.* (2026b), *MNRAS*, 552, stag1632
-[ADS Link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22)
+[ADS Link](https://ui.adsabs.harvard.edu/abs/2025MNRAS.539..776C/abstract)
 
 **Unveiling the population of massive quenched galaxies at z≥2 in the COLIBRE simulations — I. Galaxy demographics**
 *A. Chandro-Gómez et al.* (2026a), *MNRAS*, 552, stag1481 
-[ADS Link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22)
+[ADS Link](https://ui.adsabs.harvard.edu/abs/2026MNRAS.552g1481C/abstract)
 
 **On the accuracy of halo merger trees and the consequences on semi-analytic models of galaxy formation and evolution**
 *A. Chandro-Gómez et al.* (2025), *MNRAS*, 539, 776
-[ADS Link](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22)
+[ADS Link](https://ui.adsabs.harvard.edu/abs/2026MNRAS.552g1632C/abstract)
 
 *For a full publication list including co-authored papers, please see my [NASA ADS Bibliography](https://ui.adsabs.harvard.edu/search/q=author%3A%22Chandro-Gomez%2C%20Angel%22).*
 
@@ -58,7 +57,7 @@ I am a final-year PhD researcher at ICRAR/UWA investigating the emergence and ev
 
 - **Running simulation codes:** DHalo, D-Trees, HBT-HERONS, Shark, Galform, SWIFT, GADGET-4
 - **Analysis of simulation data:** FLAMINGO, COLIBRE, Shark, Galform
-- **Programming languages & tools:** Python, C, C++, Fortran, Slurm HPC, Git, TensorFlow, Visualization tools
+- **Programming languages & tools:** Python, C, C++, Fortran, Slurm HPC, Git, TensorFlow, visualisation tools (Matplotlib, Swiftsimio, Swiftgalaxy)
 
 <div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
   <img src="./galaxymap.png" alt="Observational Astronomy" style="width: 100%; max-width: 600px; height: auto; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); display: block; margin: 0 auto;">
