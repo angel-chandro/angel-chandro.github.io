@@ -3,3 +3,5 @@ description: ""
 theme: minima
 kramdown:
   math_engine: mathjax
+include:
+  -google7e9dec04ad2e54d1.html
